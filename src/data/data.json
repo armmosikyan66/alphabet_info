@@ -1,0 +1,316 @@
+{
+  "Header": {
+    "title": "հայոց այբուբեն",
+    "paragraph": "Հայոց այբուբենի գեղեցկության բացահայտում. ուղեցույց նրա պատմության և կիրառման համար:"
+  },
+  "About": {
+    "paragraph": "Հայերեն այբուբենը հայոց լեզուն գրելու համար օգտագործվող այբուբեն է։ Այն բաղկացած է 39 տառից և ենթադրվում է, որ այն հորինել է 405 թվականին վանական և աստվածաբան Մեսրոպ Մաշտոցը։ Տառերը ավանդաբար կոչվում են Աստվածաշնչում իրենց առաջին բառից և գրվում են հորիզոնական՝ ձախից աջ: Այբուբենը կիրառվում է Հայաստանի Հանրապետությունում, Լեռնային Ղարաբաղում և հայկական սփյուռքում։ Այն օգտագործվում է նաև որպես Հայ առաքելական եկեղեցու գրական լեզու։ Այբուբենը եզակի է նրանով, որ այն առաջին այբբենական գիրն է, որը ստեղծվել է հատուկ մեկ լեզվի համար, այլ ոչ թե հարմարեցվել գոյություն ունեցող գրերից։"
+  },
+  "Gallery": [
+    {
+      "title": "Հայոս գրեր",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Հայոս գրեր",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Հայոս գրեր",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Հայոս գրեր",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/maxresdefault.jpg"
+    },
+    {
+      "title": "Հայոս գրեր",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/IMG_5330.jpg"
+    },
+    {
+      "title": "Հայոս գրեր",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/portfolio_db65abe8d7.jpg"
+    },
+    {
+      "title": "Հայոս գրեր",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/7680ab2d0d15f3221b98b3ed4fc107c0--armenian-alphabet.jpg"
+    },
+    {
+      "title": "Հայոս գրեր",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/fbdb6a0c5d567c0c345bc01d00255a67.jpg"
+    },
+    {
+      "title": "Հայոս գրեր",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/241762326582b3569e2d37890fc03839.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "text": "Հայոց այբուբենը պատմության ընթացքում մի քանի բարեփոխումների է ենթարկվել։"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "text": "Արևելահայերենի բարբառը օգտագործում է նույն այբուբենը, բայց տառերի ձևերի մի փոքր տատանումներով։"
+    },
+    {
+      "icon": "fa fa-language",
+      "text": "Հայերեն այբուբենի տառերը նույնպես օգտագործվում են թվեր ներկայացնելու համար, առաջին 36 տառերը ներկայացնում են 1-36 թվերը։"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "text": "Հայկական այբուբենը օգտագործվել է մի քանի այլ լեզուներ գրելու համար, այդ թվում՝ ուրարտերենը, որը Հայաստանի տարածաշրջանում խոսվում էր հնագույն լեզու, և հին վրացերենը։"
+    },
+    {
+      "icon": "fa fa-plane",
+      "text": "Հայերեն այբուբենը հայտնի է դիակրիտիկ նշանների օգտագործմամբ, որոնք օգտագործվում են ձայնավոր հնչյունների և բաղաձայնների այլ ձևափոխումների համար։"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "text": "Հայերեն այբուբենը լայնորեն օգտագործվել է գրականության, այդ թվում՝ կրոնական տեքստերի և պատմական տարեգրությունների, ինչպես նաև ժամանակակից գեղարվեստական գրականության և պոեզիայի ստեղծման մեջ։"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "ա",
+      "value": "1"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "բ",
+      "value": "2"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "գ",
+      "value": "3"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "դ",
+      "value": "4"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "ե",
+      "value": "5"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "զ",
+      "value": "6"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "է",
+      "value": "7"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ը",
+      "value": "8"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "թ",
+      "value": "9"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ժ",
+      "value": "10"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ի",
+      "value": "20"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "լ",
+      "value": "30"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "խ",
+      "value": "40"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ծ",
+      "value": "50"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "կ",
+      "value": "60"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "հ",
+      "value": "70"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ձ",
+      "value": "80"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ղ",
+      "value": "90"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ճ",
+      "value": "100"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "մ",
+      "value": "200"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "յ",
+      "value": "300"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ն",
+      "value": "400"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "շ",
+      "value": "500"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ո",
+      "value": "600"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "չ",
+      "value": "700"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "պ",
+      "value": "800"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ջ",
+      "value": "900"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ռ",
+      "value": "1000"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ս",
+      "value": "2000"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "վ",
+      "value": "3000"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "տ",
+      "value": "4000"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ր",
+      "value": "5000"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ց",
+      "value": "6000"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ու",
+      "value": "7000"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "փ",
+      "value": "8000"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "ք",
+      "value": "9000"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-1x",
+      "title": "Հայերեն այբուբենն",
+      "text": "ունի 38 տառ և այբբենական գրային համակարգ է:"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Ստեղծվել է",
+      "text": "Մեսրոպ Մաշտոցի կողմից մ.թ.ա 4-րդ դարում։"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Տառերը բաժանվում են",
+      "text": "երկու խմբի՝ ուրույն ձևով և բաղադրյալ ձևով։"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Տառերը գրված են",
+      "text": "ձախից աջ հորիզոնական և սովորաբար իրար միացված չեն։"
+    }
+  ]
+}
